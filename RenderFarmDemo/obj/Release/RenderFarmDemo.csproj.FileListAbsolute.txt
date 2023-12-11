@@ -1,0 +1,16 @@
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Release\RenderFarmDemo.exe.config
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Release\RenderFarmDemo.exe
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Release\RenderFarmDemo.pdb
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Release\System.Management.Automation.dll
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Release\Microsoft.WindowsAPICodePack.pdb
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Release\RenderFarmDemo.csprojAssemblyReference.cache
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Release\RenderFarmDemo.Form1.resources
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Release\RenderFarmDemo.Properties.Resources.resources
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Release\RenderFarmDemo.csproj.GenerateResource.cache
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Release\RenderFarmDemo.csproj.CoreCompileInputs.cache
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Release\RenderFarmDemo.csproj.CopyComplete
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Release\RenderFarmDemo.exe
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Release\RenderFarmDemo.pdb

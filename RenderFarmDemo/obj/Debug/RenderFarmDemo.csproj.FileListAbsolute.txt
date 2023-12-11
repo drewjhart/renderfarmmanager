@@ -1,0 +1,34 @@
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Debug\RenderFarmDemo.exe.config
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Debug\RenderFarmDemo.exe
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Debug\RenderFarmDemo.pdb
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Debug\RenderFarmDemo.Form1.resources
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Debug\RenderFarmDemo.Properties.Resources.resources
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Debug\RenderFarmDemo.csproj.GenerateResource.cache
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Debug\RenderFarmDemo.csproj.CoreCompileInputs.cache
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Debug\RenderFarmDemo.exe
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Debug\RenderFarmDemo.pdb
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Debug\RenderFarmDemo.csprojAssemblyReference.cache
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Debug\RenderFarmDemo.csproj.CopyComplete
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\bin\Debug\System.Management.Automation.dll
+C:\IBI\Apps\RenderFarmDemo\RenderFarmDemo\obj\Debug\RenderFarmDemo.Form3.resources
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\bin\Debug\RenderFarmDemo.exe.config
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\bin\Debug\RenderFarmDemo.exe
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\bin\Debug\RenderFarmDemo.pdb
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\bin\Debug\System.Management.Automation.dll
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\obj\Debug\RenderFarmDemo.csprojAssemblyReference.cache
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\obj\Debug\RenderFarmDemo.Form1.resources
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\obj\Debug\RenderFarmDemo.Form3.resources
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\obj\Debug\RenderFarmDemo.Properties.Resources.resources
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\obj\Debug\RenderFarmDemo.csproj.GenerateResource.cache
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\obj\Debug\RenderFarmDemo.csproj.CoreCompileInputs.cache
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\obj\Debug\RenderFarmDemo.csproj.CopyComplete
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\obj\Debug\RenderFarmDemo.exe
+C:\IBI\Apps\RenderFarmDemo - Copy (2)\RenderFarmDemo\obj\Debug\RenderFarmDemo.pdb
